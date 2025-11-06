@@ -10,7 +10,7 @@
 
 
 ## Here Are Some Projects 🏗
-* 🚩 [**MineSweeper**](https://github.com/sam-astro/Astro8-Computer)
+* 🚩 [**MineSweeper**](https://github.com/yoboyali/Minesweeper-In-SFML)
   * A MineSweeper game made in SFML with a leader board and difficulty selection
-* 🔫 [**2DGameEngine**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (Currently in Development)}$
+* 🔫 [**2DGameEngine**](https://github.com/yoboyali/2DGameEngine) $\textsf{\color{orange} (Currently in Development)}$
   * My own 2DGameEngine with Primitive Drawing functionality , Logging  , Tilemap Handling and more ,it is used to make a simple TopDown shooting Game Made with c++.
