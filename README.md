@@ -1,16 +1,16 @@
-## Hi there 👋
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoboyali&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoboyali&theme=github_dark&layout=compact" />
+</a>
 
-<!--
-**yoboyali/yoboyali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here Are Some Projects 🏗
+* 🚩 [**MineSweeper**](https://github.com/sam-astro/Astro8-Computer)
+  * A MineSweeper game made in SFML with a leader board and difficulty selection
+* 🔫 [**2DGameEngine**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (no longer in development)}$
+  * My own 2DGameEngine with Primitive Drawing functionality , Logging and it is used to make a simple TopDown shooting Game Made with c++
